@@ -1,0 +1,7 @@
+location = 'location'
+parameter = 'parameter'
+value = 'value'
+country_col = 'country'
+date_utc = 'date_utc'
+coordinates_latitude = 'coordinates_latitude'
+coordinates_longitude = 'coordinates_longitude'
